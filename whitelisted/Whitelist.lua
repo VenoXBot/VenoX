@@ -1,3 +1,4 @@
 return {
-"testing"
+"testing",
+"blaze"
 }
