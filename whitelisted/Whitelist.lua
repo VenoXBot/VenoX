@@ -1,3 +1,4 @@
 return {
-"ye"
+"ye",
+"y"
 }
