@@ -1,2 +1,2 @@
-return {["roblox"] = true,
+return {["roblox"] = true,["ye"] = true,
 }
